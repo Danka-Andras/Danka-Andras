@@ -6,4 +6,4 @@
 
 
 
-[KedvencOldalam](https://www.netflix.com/hu/)
+[Kedvenc Oldalam](https://www.netflix.com/hu/)

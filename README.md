@@ -1,7 +1,7 @@
 # Kacsacomb 🍗
 **Hello!**
 
-![kacsa](https://trademagazin.hu/wp-content/uploads/2015/01/kacsa.jpg)
+![kacsa](![image](https://github.com/Danka-Andras/Danka-Andras/assets/146165422/78c9b483-22f7-448f-a759-b45becbb06ed))
 
 
 
